@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+# ignore directories
+.vs/
+.vs\
+
 # Folder config file
 Desktop.ini
 
